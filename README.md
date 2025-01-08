@@ -1,4 +1,4 @@
-# Data-Science-Thesis
+# Data-Analysis-Thesis
 This Thesis explores the effect of the practical impact of war events and mental state on attention performance
 
 dataset file<br/>
